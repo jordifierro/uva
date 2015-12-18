@@ -6,25 +6,34 @@
 
 using namespace std;
 
-int dijkstra(vector< vector< pair<int, pair<string, bool> > > > &g, int start_lang, int end_lang) {
+int dijkstra(   vector< vector< pair<int, pair<string, bool> > > > &g,
+                int start_lang, int end_lang) {
 
     //priority_queue composed by <<total_lenght, last_letter>, language>
     priority_queue< pair< pair<int, char>, int > > pq;
     pq.push(make_pair(make_pair(0, 'A'), start_lang));
 
-    while(!pq.empty()) {
+    while (!pq.empty()) {
         pair< pair<int, char>, int > p = pq.top();
         pq.pop();
 
-        if(p.second == end_lang) return -p.first.first;
+        if (p.second == end_lang) return -p.first.first;
 
-        for(int i = 0; i < g[p.second].size(); ++i) {
+        for (int i = 0; i < g[p.second].size(); ++i) {
 
-            //if !used(current_edge) and first_letter(current_edge) != last_letter
-            if(!g[p.second][i].second.second and g[p.second][i].second.first[0] != p.first.second) {
+            //if !used(current_edge) and
+            // first_letter(current_edge) != last_letter
+            if (!g[p.second][i].second.second and
+                g[p.second][i].second.first[0] != p.first.second) {
 
-                //add this edge to the queue, lenght stored negative to let the queue sort the shortest first
-                pq.push(make_pair(make_pair(-(-(p.first.first)+g[p.second][i].second.first.size()), g[p.second][i].second.first[0]), g[p.second][i].first));
+                //add this edge to the queue
+                //inverse length to let the queue sort the shortest first
+                pq.push(
+                    make_pair(
+                        make_pair(  -(-(p.first.first) +
+                                        g[p.second][i].second.first.size()),
+                                    g[p.second][i].second.first[0]),
+                        g[p.second][i].first));
 
                 //mark the edge as used
                 g[p.second][i].second.second = true;
@@ -44,7 +53,7 @@ int main() {
 
     int n;
     ss >> n;
-    while(n) {
+    while (n) {
 
         //map to get the corresponding index for each language
         map<string, int> m;
@@ -66,12 +75,12 @@ int main() {
             string a, b, w;
             ss >> a >> b >> w;
 
-            if(m.find(a) == m.end()){
+            if (m.find(a) == m.end()){
                 m[a] = graph_index;
                 graph_index++;
                 graph.push_back(vector< pair<int, pair<string, bool> > > ());
             }
-            if(m.find(b) == m.end()){
+            if (m.find(b) == m.end()){
                 m[b] = graph_index;
                 graph_index++;
                 graph.push_back(vector< pair<int, pair<string, bool> > > ());
@@ -81,10 +90,9 @@ int main() {
             graph[m[b]].push_back(make_pair(m[a], make_pair(w,false)));
         }
 
-        if(m.find(start_lang) == m.end() or m.find(end_lang) == m.end()) {
+        if (m.find(start_lang) == m.end() or m.find(end_lang) == m.end()) {
             cout << "impossivel" << endl;
-        }
-        else {
+        } else {
             int cost = dijkstra(graph, m[start_lang], m[end_lang]);
             if(cost < 0) cout << "impossivel" << endl;
             else cout << cost << endl;
