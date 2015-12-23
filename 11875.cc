@@ -13,17 +13,17 @@ int main() {
     int cases;
     ss >> cases;
 
-	for (int i = 0; i < cases; ++i) {
+    for (int i = 0; i < cases; ++i) {
 
-		getline(cin, line);
-		ss.clear();
-		ss.str(line);
+        getline(cin, line);
+        ss.clear();
+        ss.str(line);
 
-		int n;
-		ss >> n;
-		vector<int> v(n);
-		for (int j = 0; j < n; ++j) ss >> v[j];
+        int n;
+        ss >> n;
+        vector<int> v(n);
+        for (int j = 0; j < n; ++j) ss >> v[j];
 
-		cout << "Case " << i + 1 << ": " << v[n/2] << endl;
-	}
+        cout << "Case " << i + 1 << ": " << v[n/2] << endl;
+    }
 }

@@ -14,6 +14,7 @@ int dijkstra(   vector< vector< pair<int, pair<string, bool> > > > &g,
     pq.push(make_pair(make_pair(0, 'A'), start_lang));
 
     while (!pq.empty()) {
+
         pair< pair<int, char>, int > p = pq.top();
         pq.pop();
 
@@ -23,16 +24,16 @@ int dijkstra(   vector< vector< pair<int, pair<string, bool> > > > &g,
 
             //if !used(current_edge) and
             // first_letter(current_edge) != last_letter
-            if (!g[p.second][i].second.second and
-                g[p.second][i].second.first[0] != p.first.second) {
+            if (   !g[p.second][i].second.second and
+                    g[p.second][i].second.first[0] != p.first.second) {
 
                 //add this edge to the queue
                 //inverse length to let the queue sort the shortest first
                 pq.push(
                     make_pair(
                         make_pair(  -(-(p.first.first) +
-                                        g[p.second][i].second.first.size()),
-                                    g[p.second][i].second.first[0]),
+                        g[p.second][i].second.first.size()),
+                        g[p.second][i].second.first[0]),
                         g[p.second][i].first));
 
                 //mark the edge as used

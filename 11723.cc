@@ -7,7 +7,7 @@ using namespace std;
 #define MAX 10001
 
 int main() {
-
+    
     int cases = 0;
 
     string line;

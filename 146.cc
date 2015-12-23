@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
 
-	string line;
+    string line;
     getline(cin, line);
     istringstream ss(line);
 
@@ -16,12 +16,12 @@ int main() {
 
     while (s != "#") {
 
-    	if(next_permutation(s.begin(), s.end())) cout << s << endl;
-		else cout << "No Successor" << endl;
+        if(next_permutation(s.begin(), s.end())) cout << s << endl;
+        else cout << "No Successor" << endl;
 
-    	getline(cin, line);
-    	ss.clear();
-    	ss.str(line);
-    	ss >> s;
+        getline(cin, line);
+        ss.clear();
+        ss.str(line);
+        ss >> s;
     }
 }
