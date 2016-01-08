@@ -1,10 +1,10 @@
 # [UVa](https://uva.onlinejudge.org/) accepted solutions
 
 *  [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=36),
-[solution](https://github.com/jordifierro/uva/blob/master/solutions/solutions/100.cc)]
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/100.cc)]
 100 - The 3n + 1 problem | dynamic programming dp swap
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=37),
-[solution](https://github.com/jordifierro/uva/blob/master/solutions/solutions/101.cc)]
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/101.cc)]
 101 - The Blocks Problem | data structures hash
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=38),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/102.cc)]
