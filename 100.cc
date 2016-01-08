@@ -6,6 +6,12 @@ using namespace std;
 
 #define MAX_DP 1000000
 
+void swap(int &i, int &j) {
+    i ^= j;
+    j ^= i;
+    i ^= j;
+}
+
 int calculate(vector<int> &dp, unsigned int i) {
 
     if (i < MAX_DP) {
@@ -32,11 +38,7 @@ int main() {
         ss >> i >> j;
         cout << i << " " << j << " ";
 
-        if (i > j) { //swap i and j
-            i ^= j;
-            j ^= i;
-            i ^= j;
-        }
+        if (i > j) swap(i, j);
 
         int max = 0;
         for (int k = i; k <= j; ++k) {
