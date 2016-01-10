@@ -24,6 +24,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=55),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/119.cc)]
 119 - Greedy Gift Givers | data structures map
+* [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=56),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/120.cc)]
+120 - Stacks of Flapjacks | stack vector sort
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=63),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/127.cc)]
 127 - "Accordian" Patience | adhoc stack
