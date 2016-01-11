@@ -15,6 +15,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=40),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/104.cc)]
 104 - Arbitrage | graph floyd-warshall dynamic programming dp
+* [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=41),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/105.cc)]
+105 - The Skyline Problem | adhoc bruteforce sweep line
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=42),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/106.cc)]
 106 - Fermat vs. Pythagoras | math number theory gcd
