@@ -19,8 +19,8 @@ int main() {
         if (ugly[i2] * 2 < ugly[i3] * 3 and ugly[i2] * 2 < ugly[i5] * 5) {
             ugly.push_back(ugly[i2++] * 2);
         } else if (ugly[i3] * 3 < ugly[i5] * 5) {
-            ugly.push_back(ugly[i3] * 3);
-        } else ugly.push_back(ugly[i5] *+ 5);
+            ugly.push_back(ugly[i3++] * 3);
+        } else ugly.push_back(ugly[i5++] *+ 5);
     }
     cout << "The 1500'th ugly number is " << ugly[ugly.size()-1] << "." << endl;
 }
