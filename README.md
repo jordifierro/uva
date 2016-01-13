@@ -36,6 +36,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=63),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/127.cc)]
 127 - "Accordian" Patience | adhoc stack
+* [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=72),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/136.cc)]
+136 - Ugly Numbers | math prime numbers dynamic programming dp
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=82),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/146.cc)]
 146 - ID Codes | permutations
