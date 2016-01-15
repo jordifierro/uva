@@ -39,6 +39,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=72),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/136.cc)]
 136 - Ugly Numbers | math prime numbers dynamic programming dp
+* [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=80),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/144.cc)]
+144 - Student Grants | adhoc module
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=82),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/146.cc)]
 146 - ID Codes | permutations
