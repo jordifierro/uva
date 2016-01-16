@@ -45,6 +45,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=82),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/146.cc)]
 146 - ID Codes | permutations
+* [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=92),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/156.cc)]
+156 - Ananagrams | adhoc
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=131),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/195.cc)]
 195 - Anagram | permutations compare
