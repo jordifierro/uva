@@ -69,6 +69,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=400),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/459.cc)]
 459 - Graph Connectivity | graph connected components
+* [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=414),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/473.cc)]
+473 - Raucous Rockers | dynamic programming dp
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=557),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/616.cc)]
 616 - Coconuts, Revisited | math
