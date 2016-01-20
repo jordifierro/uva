@@ -45,6 +45,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=82),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/146.cc)]
 146 - ID Codes | permutations
+* [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=87),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/151.cc)]
+151 - Power Crisis | adhoc module
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=92),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/156.cc)]
 156 - Ananagrams | adhoc
