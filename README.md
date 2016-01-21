@@ -54,6 +54,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=96),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/160.cc)]
 160 - Factors and Factorials | math erastothemes primes sieve
+* [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=97),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/161.cc)]
+161 - Traffic Lights | adhoc
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=131),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/195.cc)]
 195 - Anagram | permutations compare
