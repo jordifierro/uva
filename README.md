@@ -63,6 +63,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=192),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/256.cc)]
 256 - Quirksome Squares | adhoc math
+* [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=208),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/272.cc)]
+272 - TEX Quotes | adhoc
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=227),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/291.cc)]
 291 - The House Of Santa Claus | graph hamiltonian cycle
