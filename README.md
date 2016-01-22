@@ -99,6 +99,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=514),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/573.cc)]
 573 - The Snail | adhoc
+* [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=535),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/594.cc)]
+594 - One Little, Two Little, Three Little Endians | adhoc bitwise operations
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=557),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/616.cc)]
 616 - Coconuts, Revisited | math
