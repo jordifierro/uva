@@ -21,6 +21,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=42),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/106.cc)]
 106 - Fermat vs. Pythagoras | math number theory gcd
+* [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=43),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/107.cc)]
+107 - The Cat in the Hat | math number theory geometric series
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=44),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/108.cc)]
 108 - Maximum Sum | dynamic programming dp
