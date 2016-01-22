@@ -75,6 +75,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=272),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/336.cc)]
 336 - A Node Too Far | graph breadth first search bfs
+* [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=293),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/357.cc)]
+357 - Let Me Count The Ways | dynamic programming dp
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=330),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/394.cc)]
 394 - Mapmaker | data structures struct map
