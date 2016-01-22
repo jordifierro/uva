@@ -90,6 +90,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=414),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/473.cc)]
 473 - Raucous Rockers | dynamic programming dp
+* [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=422),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/481.cc)]
+481 - What Goes Up | dynamic programming dp binary search longest increasing subsequence
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=455),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/514.cc)]
 514 - Rails | adhoc stack
