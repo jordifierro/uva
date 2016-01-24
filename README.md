@@ -99,6 +99,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=484),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/543.cc)]
 543 - Goldbach's Conjecture | math erastothemes primes sieve
+* [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=499),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/558.cc)]
+558 - Wormholes | graph theory negative cycle bellman-ford
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=503),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/562.cc)]
 562 - Dividing coins | dynamic programming dp knapsack
