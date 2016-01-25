@@ -126,6 +126,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=668),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/727.cc)]
 727 - Equation | adhoc stack
+* [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=680),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/739.cc)]
+739 - Soundex Indexing | adhoc
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3666),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/1225.cc)]
 1225 - Digit Counting | adhoc
