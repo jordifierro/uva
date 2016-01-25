@@ -123,6 +123,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=614),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/673.cc)]
 673 - Parentheses Balance | adhoc stack
+* [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=668),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/727.cc)]
+727 - Equation | adhoc stack
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3666),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/1225.cc)]
 1225 - Digit Counting | adhoc
