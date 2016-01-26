@@ -132,6 +132,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=734),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/793.cc)]
 793 - Network Connections | graph theory connected components
+* [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=778),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/837.cc)]
+837 - Light and Transparencies | adhoc
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3666),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/1225.cc)]
 1225 - Digit Counting | adhoc
