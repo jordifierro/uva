@@ -135,6 +135,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=778),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/837.cc)]
 837 - Light and Transparencies | adhoc
+* [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=849),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/908.cc)]
+908 - Re-connecting Computer Sites | graph theory minimum spanning tree
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3666),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/1225.cc)]
 1225 - Digit Counting | adhoc
