@@ -141,6 +141,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=882),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/941.cc)]
 941 - Permutations | math permutations
+* [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=931),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/990.cc)]
+990 - Diving for Gold | dynamic programming dp
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3666),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/1225.cc)]
 1225 - Digit Counting | adhoc
