@@ -138,6 +138,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=849),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/908.cc)]
 908 - Re-connecting Computer Sites | graph theory minimum spanning tree
+* [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=882),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/941.cc)]
+941 - Permutations | math permutations
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3666),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/1225.cc)]
 1225 - Digit Counting | adhoc
