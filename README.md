@@ -159,6 +159,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1242),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/10301.cc)]
 10301 - Rings and Glue | math geometry circle intersect graph theory connected components
+* [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1247),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/10306.cc)]
+10306 - e-Coins | dynamic programming dp
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1714),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/10773.cc)]
 10773 - Back to Intermediate Math | math geometry pythagoras
