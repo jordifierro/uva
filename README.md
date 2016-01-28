@@ -150,6 +150,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=944),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/10003.cc)]
 10003 - Cutting Sticks | dynamic programming dp
+* [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=949),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/10008.cc)]
+10008 - What's Cryptanalysis? | adhoc sort compare
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1167),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/10226.cc)]
 10226 - Hardwood Species | adhoc map
