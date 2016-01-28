@@ -153,6 +153,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1167),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/10226.cc)]
 10226 - Hardwood Species | adhoc map
+* [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1222),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/10281.cc)]
+10281 - Average Speed | adhoc
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1714),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/10773.cc)]
 10773 - Back to Intermediate Math | math geometry pythagoras
