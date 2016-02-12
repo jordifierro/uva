@@ -78,6 +78,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=227),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/291.cc)]
 291 - The House Of Santa Claus | graph hamiltonian cycle
+* [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=235),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/299.cc)]
+299 - Train Swapping | bubble sort
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=272),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/336.cc)]
 336 - A Node Too Far | graph breadth first search bfs
