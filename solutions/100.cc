@@ -42,8 +42,8 @@ int main() {
 
         int max = 0;
         for (int k = i; k <= j; ++k) {
-            if(dp[k] == 0) calculate(dp, k);
-            if(dp[k] > max) max = dp[k];
+            if (dp[k] == 0) calculate(dp, k);
+            if (dp[k] > max) max = dp[k];
         }
         cout << max << endl;
     }
