@@ -189,6 +189,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2823),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/11723.cc)]
 11723 - Numbering Roads | adhoc
+* [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2890),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/11790.cc)]
+11790 - Murcia's Skyline | dynamic programming dp longest increasing subsequence
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2986),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/11875.cc)]
 11875 - Brick Game | adhoc
