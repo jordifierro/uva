@@ -186,6 +186,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2487),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/11492.cc)]
 11492 - Babel | graph dijkstra
+* [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2512),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/11517.cc)]
+11517 - Exact Change | dynamic programming dp
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2823),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/11723.cc)]
 11723 - Numbering Roads | adhoc
