@@ -189,6 +189,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1304),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/10363.cc)]
 10363 Tic Tac Toe | adhoc
+* [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1305),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/10364.cc)]
+10364 Square | subsets dp dynamic programming
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1714),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/10773.cc)]
 10773 - Back to Intermediate Math | math geometry pythagoras
