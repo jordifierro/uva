@@ -192,6 +192,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1305),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/10364.cc)]
 10364 Square | subsets dp dynamic programming
+* [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1310),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/10369.cc)]
+10369 Arctic Network | graph connected components
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1714),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/10773.cc)]
 10773 - Back to Intermediate Math | math geometry pythagoras
