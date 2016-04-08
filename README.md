@@ -185,16 +185,19 @@
 10341 - Solve it | math numerical
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1287),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/10346.cc)]
-10346 Peter's Smokes | math numerical
+10346 - Peter's Smokes | math numerical
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1304),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/10363.cc)]
-10363 Tic Tac Toe | adhoc
+10363 - Tic Tac Toe | adhoc
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1305),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/10364.cc)]
-10364 Square | subsets dp dynamic programming
+10364 - Square | subsets dp dynamic programming
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1310),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/10369.cc)]
-10369 Arctic Network | graph connected components
+10369 - Arctic Network | graph connected components
+* [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1469),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/10528.cc)]
+10528 - Major Scales | adhoc hash
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1714),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/10773.cc)]
 10773 - Back to Intermediate Math | math geometry pythagoras
