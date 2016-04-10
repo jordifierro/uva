@@ -26,7 +26,7 @@
 107 - The Cat in the Hat | math number theory geometric series
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=44),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/108.cc)]
-108 - Maximum Sum | dynamic programming dp
+108 - Maximum Sum | dynamic programming dp maximum sum
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=49),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/113.cc)]
 113 - Power of Cryptography | math adhoc
@@ -210,6 +210,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1751),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/10810.cc)]
 10810 - Ultra-QuickSort | sort divide and conquer d&c
+* [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1768),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/10827.cc)]
+10827 - Maximum sum on a torus | dynamic programming dp maximum sum
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2283),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/11308.cc)]
 11308 - Bankrupt Baker | adhoc map iomanip
