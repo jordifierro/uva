@@ -201,6 +201,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1480),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/10539.cc)]
 10539 - Almost Prime Numbers | math prime numbers
+* [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1524),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/10583.cc)]
+10583 - Ubiquitous Religions | graph theory minimum spanning tree
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1714),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/10773.cc)]
 10773 - Back to Intermediate Math | math geometry pythagoras
