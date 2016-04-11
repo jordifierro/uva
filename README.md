@@ -213,6 +213,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1768),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/10827.cc)]
 10827 - Maximum sum on a torus | dynamic programming dp maximum sum kadane's algorithm
+* [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1869),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/10928.cc)]
+10928 - My Dear Neighbours | adhoc
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2283),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/11308.cc)]
 11308 - Bankrupt Baker | adhoc map iomanip
