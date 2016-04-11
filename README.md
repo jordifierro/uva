@@ -26,7 +26,7 @@
 107 - The Cat in the Hat | math number theory geometric series
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=44),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/108.cc)]
-108 - Maximum Sum | dynamic programming dp maximum sum
+108 - Maximum Sum | dynamic programming dp maximum sum kadane's algorithm
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=49),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/113.cc)]
 113 - Power of Cryptography | math adhoc

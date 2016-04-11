@@ -25,14 +25,14 @@ int main() {
     }
 
     int max_sum = 0;
-    for (int i = 0; i < n; ++i) {
+    for (int i = 1; i < n; ++i) {
         for (int j = i; j < n; ++j) {
-            
+
             int sum = 0;
             for (int k = 0; k < n; ++k) {
-                sum += dp[j][k] - (i-1 >= 0 ? dp[i-1][k]:0);
+                sum += dp[j][k] - dp[i-1][k];
                 if (sum > max_sum) max_sum = sum;
-                if (sum < 0) sum = 0;
+                else if (sum < 0) sum = 0;
             }
         }
     }
