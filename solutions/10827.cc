@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <sstream>
+#include <algorithm>
 
 using namespace std;
 
@@ -20,7 +21,7 @@ int main() {
 
         int n;
         ss >> n;
-        vector< vector<int> > matrix(2*n, vector<int> (2*n));
+        vector< vector<int> > matrix(2*n, vector<int> (n));
 
         for (int i = 0; i < n; ++i) {
 
@@ -29,36 +30,44 @@ int main() {
             ss.str(line);
 
             for (int j = 0; j < n; ++j) {
-                int a;
-                ss >> a;
-                matrix[i][j] = matrix[i+n][j] =
-                    matrix[i][j+n] = matrix[i+n][j+n] = a;
+                ss >> matrix[i][j];
+                matrix[i+n][j] = matrix[i][j];
             }
         }
 
-        //precalculate the cumulated sum of the columns
-        for (int j = 0; j < 2*n; ++j)
-            for (int i = 0; i < 2*n; ++i)
-                if (i) matrix[i][j] += matrix[i-1][j];
+        for (int j = 0; j < n; ++j)
+            for (int i = 1; i < 2*n; ++i)
+                matrix[i][j] += matrix[i-1][j];
 
-        //for each quartet row(k to i) and column(y to j) calculate the sum
-        int max = 0;
-        for (int i = 0; i < 2*n; ++i) {
-            for (int k = (i-n+1 >= 0 ? i-n+1 : 0); k <= i; ++k) {
+        int max_seq = 0;
+        for (int i = 1; i < 2*n; ++i) {
+            for (int j = i; j < 2*n and j-i < n; ++j) {
 
-                for (int j = 0; j < 2*n; ++j) {
-                    int sum = 0;
-                    for (int y = (j-n+1 >= 0 ? j-n+1 : 0); y <= j; ++y) {
+                /*  The best subarray from rows i to j will be the max kadane's
+                    algorithm sum or total columns sum minus the best negative
+                    subsequence, also calculated using kadane's algorithm     */
+                    
+                int total_sum = 0;
+                for (int k = 0; k < n; ++k)
+                    total_sum += matrix[j][k] - matrix[i-1][k];
 
-                        if (sum < 0) sum = 0;
-                        //add the sum of the column y from k to i
-                        sum += (matrix[i][y] - (k ? matrix[k-1][y] : 0));
-                        if (sum > max) max = sum;
-                    }
+                int sum_max, sum_min, best_max, best_min;
+                sum_max = sum_min = best_max = best_min = 0;
+                for (int k = 0; k < n; ++k) {
+
+                    sum_max += matrix[j][k] - matrix[i-1][k];
+                    sum_min += matrix[j][k] - matrix[i-1][k];
+
+                    best_max = max(best_max, sum_max);
+                    sum_max = max(sum_max, 0);
+                    best_min = min(best_min, sum_min);
+                    sum_min = min(sum_min, 0);
                 }
+
+                max_seq = max(max_seq, max(best_max, total_sum - best_min));
             }
         }
 
-        cout << max << endl;
+        cout << max_seq << endl;
     }
 }
