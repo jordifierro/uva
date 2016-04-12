@@ -231,6 +231,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2283),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/11308.cc)]
 11308 - Bankrupt Baker | adhoc map iomanip
+* [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2445),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/11450.cc)]
+11450 - Wedding shopping | dynamic programming dp
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2487),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/11492.cc)]
 11492 - Babel | graph dijkstra
