@@ -234,6 +234,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2445),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/11450.cc)]
 11450 - Wedding shopping | dynamic programming dp
+* [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2457),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/11462.cc)]
+11462 - Age Sort | adhoc
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2487),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/11492.cc)]
 11492 - Babel | graph dijkstra
