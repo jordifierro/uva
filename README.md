@@ -243,6 +243,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2490),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/11495.cc)]
 11495 - Bubbles and Buckets | sort divide and conquer d&c
+* [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2498),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/11503.cc)]
+11503 - Virtual Friends | map set
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2512),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/11517.cc)]
 11517 - Exact Change | dynamic programming dp
