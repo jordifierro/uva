@@ -27,6 +27,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=44),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/108.cc)]
 108 - Maximum Sum | dynamic programming dp maximum sum kadane's algorithm
+* [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=47),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/111.py)]
+111 - History Grading | data structure dynamic programming dp
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=49),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/113.cc)]
 113 - Power of Cryptography | math adhoc
@@ -60,6 +63,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=97),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/161.cc)]
 161 - Traffic Lights | adhoc
+* [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=102),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/166.py)]
+166 - Making Change | dynamic programming dp money change
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=131),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/195.cc)]
 195 - Anagram | permutations compare
@@ -86,7 +92,7 @@
 336 - A Node Too Far | graph breadth first search bfs
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=293),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/357.cc)]
-357 - Let Me Count The Ways | dynamic programming dp
+357 - Let Me Count The Ways | dynamic programming dp money change
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=330),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/394.cc)]
 394 - Mapmaker | data structures struct map
@@ -96,6 +102,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=400),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/459.cc)]
 459 - Graph Connectivity | graph connected components
+* [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=410),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/469.py)]
+469 - Wetlands of Florida | graph connected components
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=414),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/473.cc)]
 473 - Raucous Rockers | dynamic programming dp
@@ -141,6 +150,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=734),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/793.cc)]
 793 - Network Connections | graph theory connected components
+* [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=777),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/836.py)]
+836 - Largest Submatrix | dynamic programming dp maximum sum kadane's algorithm
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=778),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/837.cc)]
 837 - Light and Transparencies | adhoc
