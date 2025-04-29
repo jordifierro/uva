@@ -180,6 +180,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1167),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/10226.cc)]
 10226 - Hardwood Species | adhoc map
+* [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1170),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/10229.py)]
+10229 - Modular Fibonacci | math fibonacci matrix algebra
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1222),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/10281.cc)]
 10281 - Average Speed | adhoc
@@ -275,4 +278,4 @@
 11875 - Brick Game | adhoc
 
 ______________________
-http://jordifierro.com
+https://jordifierro.github.io
