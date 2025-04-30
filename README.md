@@ -267,6 +267,9 @@
 * [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2512),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/11517.cc)]
 11517 - Exact Change | dynamic programming dp
+* [[problem](https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2629),
+[solution](https://github.com/jordifierro/uva/blob/master/solutions/11582.py)]
+11582 - Colossal Fibonacci Numbers! | fibonacci pisano period matrix exponentiation modular arithmetic number theory
 * [[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2823),
 [solution](https://github.com/jordifierro/uva/blob/master/solutions/11723.cc)]
 11723 - Numbering Roads | adhoc
